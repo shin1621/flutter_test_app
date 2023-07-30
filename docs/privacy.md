@@ -1,13 +1,14 @@
-『Flutter Test App(Flutterテストアプリ)』のプライバシーポリシー
+# 『Flutter Test App(Flutterテストアプリ)』のプライバシーポリシー
 
+## 機能について
 * カメラ（画像と動画の撮影）は写真の撮影・プレビューに利用しています。
 * 撮影された画像は内蔵ストレージに保存されます。それ以外には利用されません。
 * ライトモードとダークモードを切り替える機能があります。切り替えた設定情報を暗号化したローカルストレージに保存します。それ以外には利用されません。
 * 日本語と英語を切り替える機能があります。切り替えた設定情報を暗号化したローカルストレージに保存します。それ以外には利用されません。
 * 指紋認証でサインインします。デバイスに登録した指紋情報を利用しアプリにアクセスします。それ以外には利用されません。
 * 上記以外の個人情報は利用していません。
-
-* PIXTABAYの以下の素材を利用しています。
+* 
+## PIXTABAYの以下の素材を利用しています
 * <a href="https://pixabay.com/ja/users/ju1959jjj-5013405/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2986837">ju Irun</a>による<a href="https://pixabay.com/ja//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2986837">Pixabay</a>からの画像
 
 * <a href="https://pixabay.com/ja/users/cocoparisienne-127419/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=377700">Anja</a>による<a href="https://pixabay.com/ja//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=377700">Pixabay</a>からの画像
