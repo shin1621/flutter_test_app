@@ -7,8 +7,8 @@
 * 日本語と英語を切り替える機能があります。切り替えた設定情報を暗号化したローカルストレージに保存します。それ以外には利用されません。
 * 指紋認証でサインインします。デバイスに登録した指紋情報を利用しアプリにアクセスします。それ以外には利用されません。
 * 上記以外の個人情報は利用していません。
-* 
-## PIXTABAYの以下の素材を利用しています
+
+## PIXTABAYの以下のクリエイターの写真を利用しています
 * <a href="https://pixabay.com/ja/users/ju1959jjj-5013405/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2986837">ju Irun</a>による<a href="https://pixabay.com/ja//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2986837">Pixabay</a>からの画像
 
 * <a href="https://pixabay.com/ja/users/cocoparisienne-127419/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1285634">Anja</a>による<a href="https://pixabay.com/ja//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1285634">Pixabay</a>からの画像
